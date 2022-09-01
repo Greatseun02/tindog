@@ -1,0 +1,127 @@
+#title{background-color: #ff4c68;}
+#features{padding: 200px 250px;}
+.container-fluid{
+  padding: 7% 15%;
+}
+.button-outline-light{background-color: #ff4c68;}
+body{font-family: montserrat; text-align: center;}
+h1{font-size: 3rem; line-height: 1.5;font-weight: 900; margin-top: 50px; text-align: left;}
+
+/* navigation bar */
+
+.navbar-brand{font-family: ubuntu; font-size: 2.5rem; font-weight: bold;}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{font-weight: 300;font-size: 1.2rem;}
+
+#title .container-fluid{
+padding: 3% 15%;
+}
+
+/* download button */
+.title-div{
+  text-align: left;
+}
+.download-button{margin: 5% 3% 5% 0;}
+
+/* dog-image */
+.iphone-image{width:21.5%; transform: rotate(15deg);position: absolute; bottom: -95px; right: 250px;}
+
+/* features */
+.features-fa{
+  font-size: 50px;color: #ef8172;
+}
+.features-fa:hover{color: #ff4c68;}
+.features-h3{
+  font-size: 1.5rem;font-weight: bold;
+}
+.features-p{
+  color: #8f8f8f;
+}
+
+#features{
+  background-color: #fff;
+  position: relative;
+padding: 15% 15%;
+}
+
+/* testmonials-section */
+
+#testimonials{
+  background-color: #ef8172;
+  color: #fff;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+.testimonial-h2{
+font-weight: bold;font-size: 3rem;line-height: 1.5;
+}
+.testimonial-img{
+  width: 10%; border-radius: 100%;margin: 20px
+}
+
+/* press-section */
+#press{
+  background-color:  #ef8172;padding-bottom: 7% 15%;
+}
+.press-img{
+width: 15%;margin: 20px 20px 100px;
+}
+
+/* pricing */
+
+#pricing{
+padding:100px;
+}
+
+.card{
+  margin: 20px 10px 40px;
+}
+
+.card-button{
+width: 100%;
+}
+
+.card-button-2{
+margin-top: 40px;width: 100%;
+}
+
+
+@media  (max-width: 1028px){
+
+  .iphone-image{
+position: static;
+transform: rotate(0);
+width: 60%;
+  }
+
+  #title{
+    text-align: center;
+  }
+}
+
+/* footer-section */
+
+#cta{
+  background-color: #ff4c68; color: #fff;padding: 7% 15%;
+}
+
+.cta-h3{
+  font-weight: 900; font-size: 3.5rem; line-height: 1.5;
+}
+
+/* .cta-btn{
+  margin: 40px 15px 0;
+} */
+
+/* footer-section */
+
+#footer{
+background-color: #fff;padding: 7% 15% ;
+}
+
+.footer-fa{
+color: black; margin: 20px 10px;
+}
