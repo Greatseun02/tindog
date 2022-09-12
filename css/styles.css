@@ -103,10 +103,10 @@ width: 60%;
   }
   
 .press-img{ 
-width: 35%;margin: 20px 20px 50px;
+width: 35%; margin: 20px 20px 50px;
   }
 .download-button{
- width: 30%;
+ margin: 5% 2% ;
 }
 
 
@@ -123,7 +123,7 @@ text-align: center;font-size: 2.2rem;
 }
 
 #pricing{
-padding:15px;
+padding: 100px 15px;
 }
 
 .testimonial-h2{
