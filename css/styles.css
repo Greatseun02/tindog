@@ -19,10 +19,15 @@ h1{font-size: 3rem; line-height: 1.5;font-weight: 900; margin-top: 50px; text-al
 padding: 3% 15%;
 }
 
+.btn-collapse{
+  text-align: left;
+}
+
 /* download button */
 .title-div{
   text-align: left;
 }
+
 .download-button{margin: 5% 3% 5% 0;}
 
 /* dog-image */
@@ -97,9 +102,38 @@ transform: rotate(0);
 width: 60%;
   }
 
+
   #title{
     text-align: center;
   }
+
+h1{
+text-align: center;
+}
+
+.title-btn{
+  text-align: center;
+}
+
+#pricing{
+padding:15px;
+}
+
+.testimonial-h2{
+font-weight: bold;font-size: 1.8rem;line-height: 1.5;
+}
+
+#cta{
+ padding: 7% 5%;
+}
+
+.cta-h3{
+  font-weight: 900; font-size: 2.5rem; line-height: 1.5;
+}
+ #title .container-fluid{
+  padding: 3% 5%;
+}
+
 }
 
 /* footer-section */
