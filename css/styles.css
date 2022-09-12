@@ -101,6 +101,10 @@ position: static;
 transform: rotate(0);
 width: 60%;
   }
+  
+.download-button{
+ width: 30%;
+}
 
 
   #title{
