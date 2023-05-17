@@ -7,9 +7,12 @@ HTML
 CSS
 Bootstrap
 
-#Skills learnt
+Skills learnt:
+
 Css media query
+
 Bootstrap caurosel
+
 Bootstrap grid
 Bootstrap container
 Bootstrap Card
