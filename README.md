@@ -4,7 +4,9 @@ This is a site built under the guide of angela yu udemy's bootcamp to develop my
 
 Technology used to build the site:
 HTML
+
 CSS
+
 Bootstrap
 
 Skills learnt:
